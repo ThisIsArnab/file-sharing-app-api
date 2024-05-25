@@ -1,0 +1,6 @@
+@FilesSharingS3.Application_HostAddress = http://localhost:5292
+
+GET {{FilesSharingS3.Application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
